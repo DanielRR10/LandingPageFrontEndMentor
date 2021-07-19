@@ -107,12 +107,12 @@ body{
 @media screen and (min-width:376px){
   .card{
     flex-direction: row-reverse;
-    width: 80%;
+    width: 85%;
     height: 60%;
   }
 
   .card-title{
-    font-size: 2rem;
+    font-size: 2.5em;
   }
 
   .card-title, .card-descrip, .card-stat-item{
@@ -130,8 +130,8 @@ body{
 
   .card-descrip{
     margin-bottom: 3.5rem;
-    width: 95%;
-    font-size: 0.85rem;
+    width: 90%;
+    font-size: 1.05em;
   }
 
 
