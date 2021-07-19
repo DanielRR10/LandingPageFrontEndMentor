@@ -107,7 +107,8 @@ body{
 @media screen and (min-width:376px){
   .card{
     flex-direction: row-reverse;
-    width: 85%;
+    margin-left: 6rem;
+    margin-right: 6rem;
     height: 60%;
   }
 
